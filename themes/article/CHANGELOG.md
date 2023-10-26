@@ -1,5 +1,16 @@
 # @myst-theme/article
 
+## 0.5.11
+
+### Patch Changes
+
+- @myst-theme/providers@0.5.11
+- @myst-theme/jupyter@0.5.11
+- @myst-theme/site@0.5.11
+- @myst-theme/styles@0.5.11
+- @myst-theme/common@0.5.11
+- @myst-theme/icons@0.5.11
+
 ## 0.5.10
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # myst-to-react
 
+## 0.5.11
+
+### Patch Changes
+
+- 6db9952: Add span and fix citation link styles
+  - @myst-theme/providers@0.5.11
+
 ## 0.5.10
 
 ### Patch Changes
